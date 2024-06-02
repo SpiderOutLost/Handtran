@@ -1,0 +1,1 @@
+{"name": "HandTranslator", "description": "This model can translate some gestures", "version": "1.0", "author": "Danila", "inputs": [{"name": "serving_default_input_5:0", "type": "<class 'numpy.float32'>", "shape": [1, 224, 224, 3], "description": null}], "outputs": [{"name": "StatefulPartitionedCall:0", "type": "<class 'numpy.float32'>", "shape": [1, 3], "description": null}]}
